@@ -1,0 +1,17 @@
+{
+  "name": "can",
+  "version": "0.0.1",
+  "description": "Can bus",
+  "main": "canbus.js",
+ "dependencies":{
+"sinon":"*",
+"serialport":"*",
+"serial-obd":"*",
+"servi":"*"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Pulido",
+  "license": "GNU/GPL"
+}
